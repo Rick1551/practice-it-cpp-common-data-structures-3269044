@@ -4,6 +4,7 @@ using namespace std;
 int calculateSum(const int arr[], size_t size)
 {
     //...TODO: implement
+    // Bla bla
 }
 
 int main()
