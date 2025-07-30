@@ -8,7 +8,7 @@ int calculateSum(const int arr[], size_t size)
         result += arr[i];
     }
     return result;
-}
+} 
 
 int main()
 {
